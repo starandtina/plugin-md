@@ -29,7 +29,7 @@ $ md
 
 [mit]:            http://opensource.org/licenses/MIT
 [author]:         http://github.com/starandtina
-[contributors]:   https://github.com/starandtina/pkg-md/graphs/contributors
+[contributors]:   https://github.com/starandtina/plugin-md/graphs/contributors
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
